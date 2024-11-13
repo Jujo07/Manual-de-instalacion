@@ -2,8 +2,10 @@
 
 ![Captura (3)](https://github.com/user-attachments/assets/9e9cb841-169f-468f-bf05-e8b38ebd4f75)
 
-![Captura (4)](https://github.com/user-attachments/assets/df94d175-d18b-491a-9776-d370095d9a53)ç
+![Captura (4)](https://github.com/user-attachments/assets/df94d175-d18b-491a-9776-d370095d9a53)
 
+
+Instalamos Owncloud y continuamos con los pasos
 ![Captura (9)](https://github.com/user-attachments/assets/fb4d26e7-12e4-45b3-aee6-663c3607cfca)
 
 ![Captura (5)](https://github.com/user-attachments/assets/4ff3f47a-fd80-418c-ab3e-5e8e056587a3)

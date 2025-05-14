@@ -38,27 +38,46 @@
 
 
 
-
+1. Lo primero que tenemos que hacer es baajrnos el arxivo zip de Owncloud y cambiarle el nombre a app-web.
 
 ![Captura de pantalla de 2025-05-14 11-56-06](https://github.com/user-attachments/assets/614fb9a4-6bac-4249-9d28-ef8dc959cb0d)
 
+1. Actualizamos la maquina
+
 ![Captura de pantalla de 2025-05-14 11-56-58](https://github.com/user-attachments/assets/f1e9a8fb-8908-4650-9c97-cfdd7afbbe19)
+
+1.1
 
 ![Captura de pantalla de 2025-05-14 11-57-24](https://github.com/user-attachments/assets/47f225c8-0bb3-44e2-80a3-fa1f79eeb297)
 
+2. Instalamos el servidor web apache2
+
 ![Captura de pantalla de 2025-05-14 11-57-33](https://github.com/user-attachments/assets/eade8d86-f1f9-4dac-a89b-533105b44c2b)
+
+3. Instalamos el servidor de base dee datos MYSQL-SERVER
 
 ![Captura de pantalla de 2025-05-14 11-57-46](https://github.com/user-attachments/assets/19685d25-9329-4d27-a658-fcea5f88d923)
 
+4. Instalamos libreries de PHP
+
 ![Captura de pantalla de 2025-05-14 12-02-53](https://github.com/user-attachments/assets/b76d6156-f784-4d5d-bfcb-1e55887f0888)
+
+5. Reiniciamos el servidor apche2
 
 ![Captura de pantalla de 2025-05-14 12-03-16](https://github.com/user-attachments/assets/095bab89-d921-4753-91d8-133844558d40)
 
+Creamos un usuario para poder accder a la maquina remota
+Creamos un usuario y una contraseña 
+
 ![Captura de pantalla de 2025-05-14 12-03-49](https://github.com/user-attachments/assets/63d8ab4f-9fed-42db-9e88-1883a294a608)
+
+Damos privilegios al usuario que accedera a la maquina remota 
 
 ![Captura de pantalla de 2025-05-14 12-04-42](https://github.com/user-attachments/assets/77f57d7b-0971-4d31-9a5a-c575ced8b739)
 
 ![Captura de pantalla de 2025-05-14 12-05-07](https://github.com/user-attachments/assets/463b8127-a509-4568-8963-884bdd7af535)
+
+# Descargamos los ficheros de la pagina web
 
 ![Captura de pantalla de 2025-05-14 12-05-35](https://github.com/user-attachments/assets/86ed9137-a3c6-4568-85a8-5526a2507a0a)
 

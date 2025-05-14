@@ -1,4 +1,4 @@
-1. Lo primero que tendremos que hacer es instalar la versión 7.4 de PHP a Ubuntu 24.04 para que podamos acceder a Onwcloud cuando lo tengamos instalado.
+# 1. Lo primero que tendremos que hacer es instalar la versión 7.4 de PHP a Ubuntu 24.04 para que podamos acceder a Onwcloud cuando lo tengamos instalado.
 
 2. Primero tenemos que instalar los requisitos previos de PPA
    
@@ -34,7 +34,7 @@
 
 ![Captura de pantalla de 2025-05-14 12-30-25](https://github.com/user-attachments/assets/dfc87327-076c-4747-beee-01f901c8f1ed)
 
-*Una vez hecho estos pasos ya tenemos instalada la versión 7.4 de PHP a Ubunutu 24.04*
+# *Una vez hecho estos pasos ya tenemos instalada la versión 7.4 de PHP a Ubunutu 24.04*
 
 
 
@@ -66,12 +66,12 @@
 
 ![Captura de pantalla de 2025-05-14 12-03-16](https://github.com/user-attachments/assets/095bab89-d921-4753-91d8-133844558d40)
 
-Creamos un usuario para poder accder a la maquina remota
-Creamos un usuario y una contraseña 
+# Creamos un usuario para poder accder a la maquina remota
+# Creamos un usuario y una contraseña 
 
 ![Captura de pantalla de 2025-05-14 12-03-49](https://github.com/user-attachments/assets/63d8ab4f-9fed-42db-9e88-1883a294a608)
 
-Damos privilegios al usuario que accedera a la maquina remota 
+## Damos privilegios al usuario que accedera a la maquina remota 
 
 ![Captura de pantalla de 2025-05-14 12-04-42](https://github.com/user-attachments/assets/77f57d7b-0971-4d31-9a5a-c575ced8b739)
 

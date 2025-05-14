@@ -1,18 +1,18 @@
 # 1. Lo primero que tendremos que hacer es instalar la versión 7.4 de PHP a Ubuntu 24.04 para que podamos acceder a Onwcloud cuando lo tengamos instalado.
 
-2. Primero tenemos que instalar los requisitos previos de PPA
+### 1. Primero tenemos que instalar los requisitos previos de PPA
    
 ![Captura de pantalla de 2025-05-14 12-25-17](https://github.com/user-attachments/assets/ff5d8138-a3d4-44f8-8fcc-0ccb8538aaa7)
 
-3. Instalamos las herramientas necesarias para trabajar con los arxivos de paquete personal (PPA)
+### 2. Instalamos las herramientas necesarias para trabajar con los arxivos de paquete personal (PPA)
 
 ![Captura de pantalla de 2025-05-14 12-25-34](https://github.com/user-attachments/assets/bfe6b68f-b4ce-4124-b041-ff5fd25c2701)
 
-4. Actualiza los repositorios
+### 3. Actualiza los repositorios
 
 ![Captura de pantalla de 2025-05-14 12-26-03](https://github.com/user-attachments/assets/fedebae0-fe74-4ca9-bad5-354a10efdd3a)
 
-5. Instala las librerias de PHP de la versión 7.4
+### 4. Instala las librerias de PHP de la versión 7.4
 
 ![Captura de pantalla de 2025-05-14 12-26-17](https://github.com/user-attachments/assets/16b6317e-039c-4f73-b26d-4b8927771b69)
 
@@ -20,53 +20,51 @@
 
 ![Captura de pantalla de 2025-05-14 12-28-00](https://github.com/user-attachments/assets/e94725bf-61e7-4c74-9638-456c06595dca)
 
-6.Seleccionamos de version de PHP que queremos
+### 5.Seleccionamos de version de PHP que queremos
 
 ![Captura de pantalla de 2025-05-14 12-28-14](https://github.com/user-attachments/assets/9742a2da-e450-4efc-a6ea-ccb20f4cfb78)
 
-7.Activamoslos modulos de apache2 necesarios
+### 6.Activamoslos modulos de apache2 necesarios
 
 ![Captura de pantalla de 2025-05-14 12-28-52](https://github.com/user-attachments/assets/60d6143d-e87b-4f68-80b8-db16e0d69d44)
 
 ![Captura de pantalla de 2025-05-14 12-29-18](https://github.com/user-attachments/assets/841331c6-51cd-4711-ad92-09878b346d16)
 
-8. Reiniciamos Apache2
+### 7. Reiniciamos Apache2
 
 ![Captura de pantalla de 2025-05-14 12-30-25](https://github.com/user-attachments/assets/dfc87327-076c-4747-beee-01f901c8f1ed)
 
-# *Una vez hecho estos pasos ya tenemos instalada la versión 7.4 de PHP a Ubunutu 24.04*
+### *Una vez hecho estos pasos ya tenemos instalada la versión 7.4 de PHP a Ubunutu 24.04*
 
 
 
-1. Lo primero que tenemos que hacer es baajrnos el arxivo zip de Owncloud y cambiarle el nombre a app-web.
+## 1. Lo primero que tenemos que hacer es baajrnos el arxivo zip de Owncloud y cambiarle el nombre a app-web.
 
 ![Captura de pantalla de 2025-05-14 11-56-06](https://github.com/user-attachments/assets/614fb9a4-6bac-4249-9d28-ef8dc959cb0d)
 
-1. Actualizamos la maquina
+### 1. Actualizamos la maquina
 
 ![Captura de pantalla de 2025-05-14 11-56-58](https://github.com/user-attachments/assets/f1e9a8fb-8908-4650-9c97-cfdd7afbbe19)
 
-1.1
-
 ![Captura de pantalla de 2025-05-14 11-57-24](https://github.com/user-attachments/assets/47f225c8-0bb3-44e2-80a3-fa1f79eeb297)
 
-2. Instalamos el servidor web apache2
+### 2. Instalamos el servidor web apache2
 
 ![Captura de pantalla de 2025-05-14 11-57-33](https://github.com/user-attachments/assets/eade8d86-f1f9-4dac-a89b-533105b44c2b)
 
-3. Instalamos el servidor de base dee datos MYSQL-SERVER
+### 3. Instalamos el servidor de base dee datos MYSQL-SERVER
 
 ![Captura de pantalla de 2025-05-14 11-57-46](https://github.com/user-attachments/assets/19685d25-9329-4d27-a658-fcea5f88d923)
 
-4. Instalamos libreries de PHP
+### 4. Instalamos libreries de PHP
 
 ![Captura de pantalla de 2025-05-14 12-02-53](https://github.com/user-attachments/assets/b76d6156-f784-4d5d-bfcb-1e55887f0888)
 
-5. Reiniciamos el servidor apche2
+### 5. Reiniciamos el servidor apache2
 
 ![Captura de pantalla de 2025-05-14 12-03-16](https://github.com/user-attachments/assets/095bab89-d921-4753-91d8-133844558d40)
 
-# Creamos un usuario para poder accder a la maquina remota
+# Creamos un usuario para poder acceder a la maquina remota
 # Creamos un usuario y una contraseña 
 
 ![Captura de pantalla de 2025-05-14 12-03-49](https://github.com/user-attachments/assets/63d8ab4f-9fed-42db-9e88-1883a294a608)
@@ -79,6 +77,7 @@
 
 # Descargamos los ficheros de la pagina web
 
+Si hemos cambiado el nombre de el arxivo zip que hemos descargado al principio tendremos que poner esto teniendo en cuenta que quiza donde tienes el arxivo zip no sea Baixades i sea Descargas
 ![Captura de pantalla de 2025-05-14 12-05-35](https://github.com/user-attachments/assets/86ed9137-a3c6-4568-85a8-5526a2507a0a)
 
 ![Captura de pantalla de 2025-05-14 12-06-59](https://github.com/user-attachments/assets/18b54821-c852-417a-a1fd-7a8c0fc44001)

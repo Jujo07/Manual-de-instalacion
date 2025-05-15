@@ -117,6 +117,6 @@
 
 ![Captura de pantalla de 2025-05-14 12-46-03](https://github.com/user-attachments/assets/31ae447b-8d4f-403b-af82-f700784ff72e)
 
-Si hemos segudi todos estos pasos ya podremos entrar a owncloud 
+## Si hemos seguido todos estos pasos ya enstaremos dentro de Owncloud y podremos configurarlo como queramos
 
 ![Captura de pantalla de 2025-05-14 12-46-25](https://github.com/user-attachments/assets/2ddbb004-1a69-4618-8d5b-6b6eb5976194)

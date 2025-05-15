@@ -77,18 +77,29 @@
 
 # Descargamos los ficheros de la pagina web
 
-Si hemos cambiado el nombre de el arxivo zip que hemos descargado al principio tendremos que poner esto teniendo en cuenta que quiza donde tienes el arxivo zip no sea Baixades i sea Descargas
+### Si hemos cambiado el nombre de el arxivo zip que hemos descargado al principio tendremos que poner esto teniendo en cuenta que quiza donde tienes el arxivo zip no sea Baixades y sea Descargas
+
 ![Captura de pantalla de 2025-05-14 12-05-35](https://github.com/user-attachments/assets/86ed9137-a3c6-4568-85a8-5526a2507a0a)
+
+### Vamos al directorio /var/www/html
 
 ![Captura de pantalla de 2025-05-14 12-06-59](https://github.com/user-attachments/assets/18b54821-c852-417a-a1fd-7a8c0fc44001)
 
 ![Captura de pantalla de 2025-05-14 12-10-08](https://github.com/user-attachments/assets/6cb4214b-e22f-406c-930c-0c81fa6f44e5)
 
+### Descomprimimos el ficherpo que hemos descargado
+
 ![Captura de pantalla de 2025-05-14 12-10-33](https://github.com/user-attachments/assets/8b1e1d61-34fa-4190-9f4b-aa6f376f2de8)
+
+### Copiamos los ficheros en la carpeta /var/www/html
 
 ![Captura de pantalla de 2025-05-14 12-11-57](https://github.com/user-attachments/assets/30902893-0cb3-4574-9056-c5358eb79704)
 
+### Eliminem la carpeta creada quan hem fet unzip
+
 ![Captura de pantalla de 2025-05-14 12-12-20](https://github.com/user-attachments/assets/a38ad2a1-9736-4676-921e-444bbfbf36f9)
+
+# Aplicacion de permisos
 
 ![Captura de pantalla de 2025-05-14 12-16-50](https://github.com/user-attachments/assets/2e10f142-7207-44de-be28-fcdf3c2f5cbe)
 
@@ -96,6 +107,16 @@ Si hemos cambiado el nombre de el arxivo zip que hemos descargado al principio t
 
 ![Captura de pantalla de 2025-05-14 12-18-30](https://github.com/user-attachments/assets/50a5580c-7c82-4756-8dd1-8ec9f31abcd1)
 
+## Si hemos hecho todo podemos acceder a owncloud y poner los siguientes 
+
+# usuari: usuario
+# contrasenya: password
+# base de dades: bbdd
+# domini: localhost
+
+
 ![Captura de pantalla de 2025-05-14 12-46-03](https://github.com/user-attachments/assets/31ae447b-8d4f-403b-af82-f700784ff72e)
+
+Si hemos segudi todos estos pasos ya podremos entrar a owncloud 
 
 ![Captura de pantalla de 2025-05-14 12-46-25](https://github.com/user-attachments/assets/2ddbb004-1a69-4618-8d5b-6b6eb5976194)

@@ -1,3 +1,5 @@
+Instalación versión 7.4 de PHP a Ubuntu 24.04 y instalación de Owncloud
+
 # 1. Lo primero que tendremos que hacer es instalar la versión 7.4 de PHP a Ubuntu 24.04 para que podamos acceder a Onwcloud cuando lo tengamos instalado.
 
 ### 1. Primero tenemos que instalar los requisitos previos de PPA
